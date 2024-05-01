@@ -7,7 +7,7 @@
 
 ----------------------------------------
 
-- 🔭 I'm currently working on a survival game.
+- 🔭 I'm currently working on a 3d game kit.
 
 ----------------------------------------
 
